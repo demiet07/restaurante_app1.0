@@ -1,6 +1,6 @@
 # Sistema de Gestión - restaurante_app
 
-**Estudiante:** [Tu Nombre Completo Aquí]  
+**Estudiante:** Manuel Damian Ortega Japon 
 **Asignatura:** Programación Orientada a Objetos (Semana 6)
 
 ## Descripción del Sistema
